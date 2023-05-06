@@ -9,7 +9,7 @@
     <ListView
         android:id="@+id/app_list_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:itemLayout="@layout/app_list_item" />
+        android:layout_height="match_parent" />
+<!--        app:itemLayout="@layout/app_list_item" />-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>

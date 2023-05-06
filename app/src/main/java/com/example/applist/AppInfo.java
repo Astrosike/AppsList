@@ -7,7 +7,6 @@ public class AppInfo {
     private String packageName;
     private Drawable icon;
     private String version;
-
     private String size;
 
     public AppInfo(String name, String packageName, Drawable icon, String version, String size) {
